@@ -1,6 +1,6 @@
-##QLVideoAndAudioDemo
+## QLVideoAndAudioDemo
 
-####在此demo中实现了
+#### 在此demo中实现了
 ```
 1. 信息的获取（视频和音频的获取）
 2. 视频转->H264硬编码 采用VideoToolbox
